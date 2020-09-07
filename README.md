@@ -1,1 +1,1 @@
-# relate16.githu.io
+# relate16.github.io
